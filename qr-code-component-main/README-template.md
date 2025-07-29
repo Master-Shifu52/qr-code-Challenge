@@ -1,103 +1,83 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - QR Code Component Solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is my solution to the [QR Code Component Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). It's a beginner-friendly project that allowed me to sharpen my HTML and CSS layout skills, with a focus on responsiveness and design accuracy.
 
-## Table of contents
+---
+
+## Table of Contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
+  - [Useful Resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+---
 
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Screenshot of my QR Code Component project](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- **Solution URL**: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/your-solution-url)
+- **Live Site URL**: [Visit Live Site](https://your-live-site-url.com)
 
-## My process
+---
 
-### Built with
+## My Process
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+### Built With
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Semantic **HTML5**
+- **CSS Flexbox** for layout
+- **Google Fonts (Outfit)** for typography
+- **Mobile-first** workflow
+- Vanilla CSS (no frameworks)
 
-### What I learned
+### What I Learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This project helped me understand how to:
 
-To see how you can add code snippets, see below:
+- Use Flexbox to center items vertically and horizontally.
+- Apply clean and modern design techniques (rounded corners, shadows, font styling).
+- Build mobile-first, responsive components with scalable design.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
+#### Sample Code Snippet
+
+\`\`\`css
+.container {
+  width: 320px;
+  height: 499px;
+  background-color: #FFFFFF;
+  border-radius: 20px;
+  margin: 100px auto;
 }
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+\`\`\`
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+### Continued Development
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+In future projects, I want to:
 
-### Continued development
+- Focus more on accessibility (ARIA attributes, alt text improvement).
+- Explore utility-first frameworks like Tailwind CSS for component structuring.
+- Add light/dark mode toggles to enhance user experience.
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+### Useful Resources
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+- [MDN Web Docs - Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) – A go-to resource for understanding Flexbox.
+- [Google Fonts](https://fonts.google.com/) – For choosing modern, web-safe fonts like **Outfit**.
+- [Frontend Mentor Community](https://www.frontendmentor.io/community) – For inspiration and feedback.
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+---
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Frontend Mentor – [@PaulDesigns](https://www.frontendmentor.io/profile/PaulDesigns)
+- Twitter – [@PaulDesigns](https://www.twitter.com/PaulDesigns)
